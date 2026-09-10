@@ -1,0 +1,15 @@
+{
+	"name": "adf-uberproject-manoj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1f366f8-4649-4ff5-b636-13550879c00b",
+		"tenantId": "3269d1f5-82ba-4419-a0fb-eb0f2d03517b"
+	}
+}
